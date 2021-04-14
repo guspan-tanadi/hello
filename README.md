@@ -1,1 +1,1 @@
-# guspan.github.io
+# Static Page With Greeting Animation
